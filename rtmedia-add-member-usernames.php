@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Add Member Usernames to RTMedia Comments
+Plugin Name: RTMEdia Add Member Usernames Comments
 Description: Add @user_nicename to RTMedia comments
 Version:     0.1
 Author:      The team at PIE
