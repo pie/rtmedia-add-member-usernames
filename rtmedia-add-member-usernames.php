@@ -27,4 +27,4 @@ function add_username_to_photo_comments( $html, $comment ) {
     }
     return $html;
 }
-add_filter( 'rtmedia_single_comment', __NAMESPACE__ . '\\add_username_to_photo_comments', 10, 2 );
+add_filter( 'rtmedia_single_comment', __NAMESPACE__ . '\add_username_to_photo_comments', 10, 2 );
